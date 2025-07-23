@@ -5,6 +5,7 @@ Ce document est un projet qui porte sur la mise en place d’un contrôleur de d
 
 Le projet se déroule en plusieurs étapes, de l’installation initiale à l’amélioration concrète de la sécurité du domaine, avec un audit final pour évaluer l’impact des actions correctives.
 
+
 **Objectifs du TP:**
 
 **1. Créer un contrôleur de domaine (metsys.lan) sous Windows Server :**
